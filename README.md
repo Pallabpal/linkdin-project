@@ -4,9 +4,9 @@ This  web project built using only HTML and CSS to replicate the look and feel o
 Live App:  https://pallabpal.github.io/linkdin-project/
 
 ## Features
-User Interface: LinkedIn Clone mimics the user interface of LinkedIn, including header, navigation bar, profile section, and post feed.
+1. User Interface: LinkedIn Clone mimics the user interface of LinkedIn, including header, navigation bar, profile section, and post feed.
 
-## Static Content: This project is static and does not include any dynamic functionality or backend integration.
+2. Static Content: This project is static and does not include any dynamic functionality or backend integration.
 
 ## Technologies Used
 1. HTML: The project's structure and content are created using HTML.
